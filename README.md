@@ -38,7 +38,10 @@
 ## 💻 Online Judge
   - [Baekjoon](https://www.acmicpc.net/user/jeongdh3927)       
        
-  [![백준 랭킹](http://mazassumnida.wtf/api/v2/generate_badge?boj=jeongdh3927)](https://www.acmicpc.net/user/jeongdh3927)   
+  [![백준 랭킹](http://mazassumnida.wtf/api/v2/generate_badge?boj=jeongdh3927)](https://www.acmicpc.net/user/jeongdh3927)
+  
+  [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=daahunii&&show_icons=true&theme=radical)]
+
 
 <!--
 **jiniljeil/jiniljeil** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
