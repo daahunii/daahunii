@@ -4,12 +4,14 @@
 
 -----------------    
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fjiniljeil%2Fhit-counter&count_bg=%23141415&title_bg=%23555555&icon=&icon_color=%23E7E0E0&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
------------------
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=daahunii&&show_icons=true&theme=tokyonight)
+<h2 align="left">📊 Github Stats</h2>
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=daahunii&layout=compact&theme=tokyonight)
-
+<table><tr><td valign="top" width="50%">
+<img src="https://github-readme-stats.vercel.app/api?username=daahunii&show_icons=true&theme=tokyonight&count_private=true&hide_border=true" align="left" style="width: 100%" />
+</td><td valign="top" width="50%">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=daahunii&hide_border=true&layout=compact&theme=tokyonight" align="left" style="width: 100%" />
+</td></tr></table> 
 ------------------
 
 ## Project & Interest
