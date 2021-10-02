@@ -7,7 +7,8 @@
 -----------------
 <div align="center">
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=daahunii&&show_icons=true&theme=tokyonight)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=daahunii&layout=compact&theme=tokyonight)](https://github.com/daahunii/github-readme-stats)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=daahunii&layout=compact&theme=tokyonight)
 </div>
 ------------------
 
