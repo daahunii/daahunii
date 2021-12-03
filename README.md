@@ -1,25 +1,24 @@
 ## Hi there I'm dahun 💧💻 <div align="right"> <a href="https://www.instagram.com/daa_hunii"><img src="https://img.shields.io/badge/daa_hunii-cc67eb?style=flat&logo=Instagram&logoColor=white&link=https://www.instagram.com/daa_hunii" /></a> <a href="mailto:wjdekgns35@naver.com"><img src="https://img.shields.io/badge/naver.com-19ce60?style=flat&logo=Naver&logoColor=white&link=mailto:wjdekgns35@naver.com"/></a> <a href="mailto:22100661@handong.edu"><img src="https://img.shields.io/badge/handong.edu-EA4335?style=flat&logo=Gmail&logoColor=white&link=mailto:22100661@handong.edu"/></a> <a href="https://open.kakao.com/o/s0oSoyVc"><img src="https://img.shields.io/badge/kakao-FFCD00?style=flat&logo=KakaoTalk&logoColor=451906&link=https://open.kakao.com/o/s0oSoyVc" /></a>
  
+ 
 <div align="right">
 <a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fdaahunii&count_bg=%23141415&title_bg=%23555555&icon=&icon_color=%23E7E0E0&title=profile+view&edge_flat=false" align="right" //></a>  
 <!-- <img src="https://gpvc.arturio.dev/daahunii" align="right" /> -->
 </div>
  
+## Awards
+- 교내 SW 페스티벌 1학년 자작소프트웨어 공모전 부문 장려상 <br>
+- 교내 SW 페스티벌 인공지능(AI) 육목대회 부문 최우수상 <br>
 
-<h2 align="left">📊 Github Stats</h2>
 
-<table><tr><td valign="top" width="50%">
-<img src="https://github-readme-stats.vercel.app/api?username=daahunii&show_icons=true&theme=tokyonight&count_private=true&hide_border=true" align="left" style="width: 100%" />
-</td><td valign="top" width="50%">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=daahunii&hide_border=true&layout=compact&theme=tokyonight" align="left" style="width: 100%" />
-</td></tr></table> 
-
-</br>
-
+</br> 
+ 
 ## Project & Interest
 <details>
      <summary style="font-size: 80pt; font-weight: bold">⚡ Project </summary> <br>
-     <ul> 
+     <ul>
+        <li>귀염뽀짝뽀짝 project</li>
+      <li>SixNeckSlice Project</li>
      </ul> 
 </details>
 
@@ -45,8 +44,20 @@
           </li>
      </ul>
 </details>
+</br>
+
+
+<h2 align="left">📊 Github Stats</h2>
+
+<table><tr><td valign="top" width="50%">
+<img src="https://github-readme-stats.vercel.app/api?username=daahunii&show_icons=true&theme=tokyonight&count_private=true&hide_border=true" align="left" style="width: 100%" />
+</td><td valign="top" width="50%">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=daahunii&hide_border=true&layout=compact&theme=tokyonight" align="left" style="width: 100%" />
+</td></tr></table> 
 
 </br>
+
+
 
 ## 💻 Online Judge
   - [Baekjoon](https://www.acmicpc.net/user/jeongdh3927)       
