@@ -29,7 +29,7 @@
                     <li>C/C++/Assembly</li>
                     <li>Java</li>
                     <li>Python</li>
-                    <li>Web (Javascript, PHP, JSP)</li>
+                    <li>Web (Javascript, PHP, React JS)</li>
                     <li>Mobile Application (Dart)</li>
                </ul>
           </li>
