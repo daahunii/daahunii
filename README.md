@@ -17,7 +17,7 @@
      <summary style="font-size: 80pt; font-weight: bold">⚡ Project </summary> <br>
      <ul>
         <li>귀염뽀짝뽀짝 project</li>
-      <li>SixNeckSlice Project</li>
+        <li>SixNeckSlice Project</li>
      </ul> 
 </details>
 
@@ -48,7 +48,7 @@
 <h2 align="left">📊 Github Stats</h2>
 
 <table><tr><td valign="top" width="50%">
-<img src="https://github-readme-stats.vercel.app/api?username=daahunii&show_icons=true&theme=tokyonight&count_private=true&hide_border=true" align="left" style="width: 100%" />
+<img src="https://github-readme-stats.vercel.app/api?username=daahunii&show_icons=true&theme=tokyonight&count_private=true&hide_border=true" align="left" style="width: 100%; height: 100%" />
 </td><td valign="top" width="50%">
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=daahunii&hide_border=true&layout=compact&theme=tokyonight" align="left" style="width: 100%" />
 </td></tr></table> 
