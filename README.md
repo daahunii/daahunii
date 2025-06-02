@@ -10,6 +10,7 @@
 - 2021 교내 SW 페스티벌 인공지능(AI) 육목대회 부문 최우수상 <br>
 - 2022 교내 SW 페스티벌 인공지능(AI) 육목대회 부문 최우수상 <br>
 - 2024 교내 SW Festival 프로그래밍 경진대회 부문 우수상 <br>
+- 2025 대경권 프로그래밍 경진대회 우수상 <br>
 
 </br> 
  
@@ -19,6 +20,7 @@
      <ul>
         <li>귀염뽀짝뽀짝 project</li>
         <li>SixNeckSlice Project</li>
+        <li>Giftoyou Project</li>
      </ul> 
 </details>
 
@@ -31,7 +33,7 @@
                     <li>Java</li>
                     <li>Python</li>
                     <li>Web (Javascript, PHP, React JS)</li>
-                    <li>Mobile Application (Dart)</li>
+                    <li>Mobile Application (Dart, flutter)</li>
                </ul>
           </li>
           <li>Security
