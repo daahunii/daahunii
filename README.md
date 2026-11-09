@@ -12,16 +12,6 @@
   <a href="https://www.notion.so/Survive-in-CSEE-36324e2abb60477dbfa75505c9f845ce"><img src="https://img.shields.io/badge/Notion-000000?style=flat&logo=Notion&logoColor=white&link=https://www.notion.so/Survive-in-CSEE-36324e2abb60477dbfa75505c9f845ce"></a>
 </p>
 
-## Projects & Research
-
-- **JavaBuildAgent** — Maven·Gradle 프로젝트의 빌드 환경·의존성 오류 처리와 LLM 복구를 연결한 자동화 CLI. ISEL-HGU 원본에서 포크한 도구의 주도 개발을 맡았습니다.
-- **바이트코드 기반 보안취약점 자동 수정 연구** — 선배가 개발한 T5 계열 사전학습모델의 후속 파인튜닝 연구. 구조 마커 설계, 학습·추론 오류 해결, 생성 결과 평가 재검증을 수행했습니다.
-- **UMV 멀웨어 탐지 연구** — PE·ELF 정적 특징 추출과 기존 모델 추론을 연결하고, 단일 파일·혼합 디렉터리를 분석하는 파이프라인을 제작했습니다.
-- **Giftoyou** — Flutter·Firebase를 활용한 SNS 기반 선물 추천 앱 프로젝트.
-- **SixNeckSlice** — C++ 기반 육목 AI 프로그램.
-- **귀염뽀짝뽀짝** — Python 웹 크롤러 기반 한동 메뉴 추천 프로그램.
-- **코로나19 자가진단 자동화** — Python 웹 크롤러를 활용해 반복 입력을 자동화한 프로그램.
-
 ## Languages & Tools
 
 ### Languages & Web
@@ -87,14 +77,6 @@
 | 2021 | 교내 SW Festival 인공지능(AI) 육목대회 **최우수상** | SixNeckSlice |
 | 2021 | 교내 SW Festival 1학년 자작소프트웨어 공모전 **장려상** | 한동 메뉴 추천 프로그램 |
 
-## Teaching & Community
-
-- 2026년 1학기 · AI 활용 프로그래밍 교과목 조교(TA)
-- 2025·2026년 하계 · PPS 코딩테스트 캠프 조교(TA)
-- 2022년 1학기 · C 프로그래밍 실습 교과목 조교(TA)·튜터
-- 2022년 2학기 · C 프로그래밍 교과목 조교(TA)·튜터
-- 2022·2024 · SW 교육봉사단 Python·앱인벤터 교육
-- 2026 · KCSE 바이트코드 의미보존 관련 연구 지원·학회 참석
 
 ## GitHub Stats
 
